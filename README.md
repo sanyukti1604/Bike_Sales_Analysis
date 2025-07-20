@@ -13,8 +13,11 @@ Slicers to filter data based on education, region, and occupation.
 Clear insights into customer segments, such as who buys more bikes and what factors might influence their decision.
 
 Business Recommendations:
+
 Target marketing efforts toward specific groups like female professionals or married individuals.
+
 Focus promotions in regions with high purchase activity.
+
 Create family-focused offers where more cars and children are linked to bike purchases.
 
 Conclusion:
